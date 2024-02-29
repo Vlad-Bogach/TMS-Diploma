@@ -1,0 +1,7 @@
+<svg class="header__top-item-icon" height="40" viewBox="0 0 40 40" width="40" xmlns="http://www.w3.org/2000/svg">
+<g fill="none" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
+<path d="M21.75 26.75h-12v-16h21v16h-4M13 14.75h14.5M13 18.75h4.5M13 22.75h4.5"></path>
+<path d="M27.75 21.25a3.5 3.5 0 1 1-7 0 3.5 3.5 0 0 1 7 0z"></path>
+<path d="M24.75 21.25a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0zM26.75 23.75v7l-2.5-2-2.5 2v-7"></path>
+</g>
+</svg>
